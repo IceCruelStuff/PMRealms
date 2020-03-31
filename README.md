@@ -1,6 +1,6 @@
 # Realms _for PocketMine-MP_
 
-This plugins registers and sends updates about the server to the PocketMine Realms service. Unfortunatly, the service was closed back in 2013. Read more about it [here](http://pe.thediamondyt.tk/wiki/software/pocketmine#pocketmine-realms).  
+This plugins registers and sends updates about the server to the PocketMine Realms service. Unfortunatly, the service was closed back in 2013. Read more about it [here](https://web.archive.org/web/20131001030747/http://realms.pocketmine.net/).  
 If you set it properly, you can manage the soft-whitelist in-game, adding players so they can see your server in their list.
 You can also open/close the server from there. 
 
